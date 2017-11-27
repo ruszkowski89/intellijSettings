@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="space" />
+  </action>
+</keymap>
