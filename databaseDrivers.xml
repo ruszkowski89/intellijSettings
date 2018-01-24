@@ -1,8 +1,13 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="exasol">
+    <driver id="exasol" name="">
       <artifact name="Exasol" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" driver-class="com.mysql.cj.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
