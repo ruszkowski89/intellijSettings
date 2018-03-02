@@ -4,7 +4,7 @@
     <property name="created">2018-03-02T18:37:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-02T21:50:41</property>
+    <property name="modified">2018-03-02T22:26:40</property>
     <property name="originalScheme">Earthsong (rainglow)</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -79,7 +79,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5e211" />
+        <option name="FOREGROUND" value="bfbfbf" />
       </value>
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -668,12 +668,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="db784d" />
+        <option name="FOREGROUND" value="5ccdff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="db784d" />
+        <option name="FOREGROUND" value="5ccdff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -704,7 +704,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="95cc5e" />
+        <option name="FOREGROUND" value="89cc4f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1293,7 +1293,7 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="95cc5e" />
+        <option name="FOREGROUND" value="bfbfbf" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
