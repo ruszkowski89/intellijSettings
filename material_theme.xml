@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="DARKER" />
   </component>
 </application>
