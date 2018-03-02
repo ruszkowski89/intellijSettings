@@ -2,5 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
     <option name="selectedTheme" value="DARKER" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="isMaterialTheme" value="false" />
   </component>
 </application>
