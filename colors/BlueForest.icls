@@ -3,9 +3,6 @@
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8080" />
     <option name="ANNOTATIONS_COLOR" value="8080ff" />
