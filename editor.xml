@@ -5,4 +5,11 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ef3540" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
