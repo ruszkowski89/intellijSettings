@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="SKIP_GETTERS" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="false" />
+    <option name="SKIP_CLASSLOADERS" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
