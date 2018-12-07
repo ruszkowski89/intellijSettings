@@ -1,7 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="SKIP_SYNTHETIC_METHODS" value="false" />
-    <option name="SKIP_CLASSLOADERS" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -74,26 +72,6 @@
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.glassfish.jersey.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.catalina.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="net.bull.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.logging.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
