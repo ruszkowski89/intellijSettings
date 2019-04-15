@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Remote debug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Remote debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unnamed'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -17,12 +25,20 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'debug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'debug'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -54,7 +70,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
-          <Count>6</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
