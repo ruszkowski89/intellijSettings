@@ -102,7 +102,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
