@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
-          <Count>108</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -246,7 +246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
