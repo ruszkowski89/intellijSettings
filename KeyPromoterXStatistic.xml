@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>9</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payara Micro'">
@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Payara Micro'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Remote debug'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -110,7 +110,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -142,7 +142,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -230,7 +230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>255</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -265,6 +265,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+Shift+0'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Payara Micro'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
@@ -334,7 +342,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
