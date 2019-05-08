@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -199,6 +199,14 @@
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
