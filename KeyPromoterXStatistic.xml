@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>538</Count>
+          <Count>572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -390,7 +390,15 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>24</Count>
+          <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -398,7 +406,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>964</Count>
+          <Count>1168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -494,7 +502,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>147</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
