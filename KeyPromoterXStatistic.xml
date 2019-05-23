@@ -33,6 +33,14 @@
           <Count>57</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>Column Selection Mode</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -94,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SimApplication'">
@@ -126,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -246,7 +254,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -350,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1092</Count>
+          <Count>1093</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -417,6 +425,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Execution Point">
         <Item>
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
@@ -446,7 +462,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1617</Count>
+          <Count>1624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -550,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>274</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
