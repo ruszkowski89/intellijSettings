@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Insight'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SimApplication'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>364</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -198,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -358,7 +358,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Rerun</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -374,7 +374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1130</Count>
+          <Count>1131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
