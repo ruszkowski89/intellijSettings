@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>394</Count>
+          <Count>395</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -390,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1214</Count>
+          <Count>1215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -510,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1919</Count>
+          <Count>1943</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
