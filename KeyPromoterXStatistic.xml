@@ -390,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1277</Count>
+          <Count>1278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -510,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2781</Count>
+          <Count>2782</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
