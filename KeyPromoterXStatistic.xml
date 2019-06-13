@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>108</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SimApplication'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>469</Count>
+          <Count>470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -358,7 +358,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -510,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2816</Count>
+          <Count>2823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimApplication'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>204</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
