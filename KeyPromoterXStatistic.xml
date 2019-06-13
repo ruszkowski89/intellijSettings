@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>110</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SimApplication'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>470</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -206,7 +206,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>208</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -358,7 +358,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>159</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -390,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1281</Count>
+          <Count>1282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +486,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+Shift+0'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -494,7 +494,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>88</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -510,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2823</Count>
+          <Count>3027</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimApplication'">
@@ -614,7 +614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>465</Count>
+          <Count>474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
