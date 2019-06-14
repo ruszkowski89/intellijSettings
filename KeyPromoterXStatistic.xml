@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>488</Count>
+          <Count>490</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
