@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>165</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>508</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -342,7 +342,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>97</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
