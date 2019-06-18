@@ -62,7 +62,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -206,7 +206,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>228</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -254,7 +254,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -390,7 +390,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1308</Count>
+          <Count>1318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -494,7 +494,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>114</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -510,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3268</Count>
+          <Count>3310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
