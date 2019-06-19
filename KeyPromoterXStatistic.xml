@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>524</Count>
+          <Count>527</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -206,7 +206,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>230</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -254,7 +254,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>83</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -614,7 +614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>496</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
