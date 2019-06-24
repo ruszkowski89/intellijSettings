@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Insight'">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'debug'</Description>
-          <Count>4</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>550</Count>
+          <Count>556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1319</Count>
+          <Count>1332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -518,7 +518,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -534,7 +534,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3314</Count>
+          <Count>3541</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -585,6 +585,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'debug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Stop 'debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'run'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -630,7 +638,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>238</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
@@ -654,7 +662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>508</Count>
+          <Count>514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
