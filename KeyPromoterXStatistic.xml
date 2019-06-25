@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>98</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>582</Count>
+          <Count>583</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -214,7 +214,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>243</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -262,7 +262,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
