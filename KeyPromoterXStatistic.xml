@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1364</Count>
+          <Count>1366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -638,7 +638,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>247</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
