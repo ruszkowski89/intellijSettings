@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>176</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -129,12 +129,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'run'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'run'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>540</Count>
+          <Count>541</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -214,7 +222,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>240</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -590,7 +598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'run'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -630,7 +638,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>236</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
