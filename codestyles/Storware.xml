@@ -1,6 +1,6 @@
 <code_scheme name="Storware" version="173">
   <option name="SOFT_MARGINS" value="100" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -12,13 +12,7 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value>
-        <package name="org.junit.Assert" withSubpackages="true" static="true" />
-        <package name="org.mockito.ArgumentMatchers" withSubpackages="true" static="true" />
-        <package name="org.mockito.Mockito" withSubpackages="true" static="true" />
-        <package name="java.awt" withSubpackages="false" static="false" />
-        <package name="javax.swing" withSubpackages="false" static="false" />
-      </value>
+      <value />
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
