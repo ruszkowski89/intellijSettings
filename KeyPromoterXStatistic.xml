@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>576</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -230,7 +230,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>263</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -734,7 +734,7 @@
           <IdeaActionID>IntroduceVariable</IdeaActionID>
           <ShortCut>'Alt+Shift+V'</ShortCut>
           <Description>Variable...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
