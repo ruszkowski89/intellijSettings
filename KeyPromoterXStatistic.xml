@@ -462,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Insight'</Description>
-          <Count>190</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payara Micro'">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -686,7 +686,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>253</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
