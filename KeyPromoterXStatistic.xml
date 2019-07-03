@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>82</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Insight'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payara Micro'">
@@ -382,7 +382,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>199</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -462,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Insight'</Description>
-          <Count>205</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payara Micro'">
@@ -590,7 +590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Insight'</Description>
-          <Count>185</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Maven: clean install --activate-profiles=debug'">
@@ -662,7 +662,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -670,7 +670,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>34</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
