@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>616</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -382,7 +382,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>257</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
