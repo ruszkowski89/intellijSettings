@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>115</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Insight'</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payara Micro'">
@@ -198,7 +198,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -230,7 +230,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -246,7 +246,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -366,7 +366,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -382,7 +382,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>408</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -414,7 +414,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -422,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1429</Count>
+          <Count>1432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -590,7 +590,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3759</Count>
+          <Count>3764</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
@@ -606,7 +606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Insight'</Description>
-          <Count>251</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Maven: clean install --activate-profiles=debug'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -686,7 +686,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
