@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>267</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Insight'</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payara Micro'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Payara Micro'</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Remote debug'">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>670</Count>
+          <Count>673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -217,6 +217,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Structure">
+        <Item>
+          <IdeaActionID>FileStructurePopup</IdeaActionID>
+          <ShortCut>'Ctrl+0'</ShortCut>
+          <Description>File Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -246,7 +254,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>39</Count>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -342,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -366,7 +382,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>141</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -382,7 +398,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>450</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -422,7 +438,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1432</Count>
+          <Count>1437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -558,7 +574,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+Shift+0'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -590,7 +606,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3764</Count>
+          <Count>3781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
@@ -606,7 +622,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Insight'</Description>
-          <Count>254</Count>
+          <Count>255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Maven: clean install --activate-profiles=debug'">
@@ -630,7 +646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Payara Micro'</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Remote debug'">
@@ -686,7 +702,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -702,7 +718,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>285</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
@@ -726,7 +742,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>571</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -735,6 +751,14 @@
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Type Declaration</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Hierarchy">
+        <Item>
+          <IdeaActionID>TypeHierarchy</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Type Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
