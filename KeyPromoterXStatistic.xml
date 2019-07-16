@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Insight'</Description>
-          <Count>85</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payara Micro'">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>738</Count>
+          <Count>741</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -422,7 +422,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>483</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -462,7 +462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1494</Count>
+          <Count>1495</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -510,7 +510,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Payara Micro'</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SimApplication'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+Shift+0'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -654,7 +654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Insight'</Description>
-          <Count>320</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Maven: clean install --activate-profiles=debug'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Payara Micro'</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Remote debug'">
@@ -742,7 +742,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>119</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
