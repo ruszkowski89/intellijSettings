@@ -502,7 +502,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Insight'</Description>
-          <Count>272</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payara Micro'">
@@ -654,7 +654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Insight'</Description>
-          <Count>305</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Maven: clean install --activate-profiles=debug'">
