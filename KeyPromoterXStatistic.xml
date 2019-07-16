@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -230,7 +230,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -374,7 +374,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -750,7 +750,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
