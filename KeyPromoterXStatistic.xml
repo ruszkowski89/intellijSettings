@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>5</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -398,7 +398,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>8</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -534,7 +534,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
-          <Count>132</Count>
+          <Count>137</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'avamar'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'avamar'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run'">
@@ -582,7 +590,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
