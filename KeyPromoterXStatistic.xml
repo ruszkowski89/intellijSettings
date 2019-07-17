@@ -406,7 +406,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -542,7 +542,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
-          <Count>137</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'avamar'">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'avamar'</Description>
-          <Count>35</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run'">
