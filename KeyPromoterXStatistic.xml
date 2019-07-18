@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'avamar'</Description>
-          <Count>8</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'debug'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>742</Count>
+          <Count>746</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -270,7 +270,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>302</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -478,7 +478,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1500</Count>
+          <Count>1502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'avamar'</Description>
-          <Count>80</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run'">
@@ -646,7 +646,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>152</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -662,7 +662,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3910</Count>
+          <Count>3942</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
@@ -734,7 +734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'avamar'</Description>
-          <Count>27</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run'">
@@ -758,7 +758,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -790,7 +790,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>303</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
@@ -814,7 +814,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>615</Count>
+          <Count>621</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
