@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+4'</ShortCut>
           <Description>Close</Description>
-          <Count>135</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Structure">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'avamar'</Description>
-          <Count>125</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run'">
