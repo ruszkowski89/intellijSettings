@@ -438,7 +438,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>491</Count>
+          <Count>492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
