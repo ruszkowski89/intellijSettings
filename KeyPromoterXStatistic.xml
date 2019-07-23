@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>768</Count>
+          <Count>769</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -790,7 +790,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>306</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
