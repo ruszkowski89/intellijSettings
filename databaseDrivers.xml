@@ -56,8 +56,8 @@
       <option name="format-sources-on-sync" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
     </driver>
-    <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" version="2.4.1" />
+    <driver id="mariadb" driver-class="com.mysql.jdbc.Driver">
+      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.47" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
