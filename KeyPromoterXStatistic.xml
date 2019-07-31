@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>137</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SimApplication'">
@@ -486,7 +486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1648</Count>
+          <Count>1649</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
