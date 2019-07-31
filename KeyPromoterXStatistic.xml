@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>293</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Payara Micro'</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Remote debug'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>838</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -270,7 +270,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>329</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -446,7 +446,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>518</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -518,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Angular CLI Server'</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Insight'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Angular CLI Server'</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Insight'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Stop 'Payara Micro'</Description>
-          <Count>162</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Remote debug'">
