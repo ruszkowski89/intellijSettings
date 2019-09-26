@@ -16,10 +16,20 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="michal.ruszkowski89@gmail.com" />
+          <option name="userName" value="michal_ruszkowski" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="I:\dev\programowanie\java\projekty" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
 </application>
