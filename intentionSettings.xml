@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Imports/Expand static import" />
-    <ignoreAction name="Java/Imports/Add on-demand static import" />
-  </component>
-</application>
