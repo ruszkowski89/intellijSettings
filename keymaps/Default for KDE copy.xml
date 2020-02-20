@@ -2,33 +2,8 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditorSelectWord" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift alt 7" />
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
-  <action id="Jdbc.OpenEditor.DDL">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="windows" />
-  </action>
-  <action id="UpdateRunningApplication" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
