@@ -3,17 +3,16 @@
     <property name="created">2020-02-28T13:38:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-28T14:24:21</property>
+    <property name="modified">2020-02-28T17:01:53</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="fffce5" />
+    <option name="CARET_ROW_COLOR" value="ffffff" />
   </colors>
   <attributes>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="eeeeee" />
       </value>
     </option>
   </attributes>
