@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Dialog.plain" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
