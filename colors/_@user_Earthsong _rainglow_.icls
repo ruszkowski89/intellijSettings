@@ -4,7 +4,7 @@
     <property name="created">2018-03-02T18:37:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-07-18T11:21:50</property>
+    <property name="modified">2020-03-17T15:47:34</property>
     <property name="originalScheme">Earthsong (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -228,9 +228,7 @@
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="95cc5e" />
-      </value>
+      <value />
     </option>
     <option name="CLASS_REFERENCE">
       <value>
