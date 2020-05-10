@@ -4,7 +4,7 @@
     <property name="created">2018-03-02T18:37:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2020-03-17T15:47:34</property>
+    <property name="modified">2020-05-10T13:29:43</property>
     <property name="originalScheme">Earthsong (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -62,7 +62,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="WHITESPACES" value="413b35" />
+    <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="413b35" />
   </colors>
   <attributes>
