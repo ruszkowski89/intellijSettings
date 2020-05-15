@@ -4,7 +4,7 @@
     <property name="created">2018-03-02T18:37:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2020-05-14T19:50:16</property>
+    <property name="modified">2020-05-15T10:51:55</property>
     <property name="originalScheme">Earthsong (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -72,9 +72,7 @@
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="95cc5e" />
-      </value>
+      <value />
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
@@ -1299,6 +1297,11 @@
       <value>
         <option name="FOREGROUND" value="bfbfbf" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="f8f4ed" />
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
