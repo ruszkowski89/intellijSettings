@@ -24,6 +24,7 @@
     </option>
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="160" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
