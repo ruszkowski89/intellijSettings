@@ -1,5 +1,8 @@
 <code_scheme name="Storware" version="173">
   <option name="SOFT_MARGINS" value="100" />
+  <CssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -23,6 +26,18 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="160" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -59,6 +74,8 @@
   <codeStyleSettings language="JavaScript">
     <option name="SOFT_MARGINS" value="100" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
