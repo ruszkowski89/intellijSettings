@@ -5,5 +5,7 @@
   <component name="Registry">
     <entry key="bigger.font.in.project.view" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.usages.page.size" value="1000" />
+    <entry key="ide.use.screen.area.tracker" value="true" />
   </component>
 </application>
