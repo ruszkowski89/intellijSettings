@@ -115,7 +115,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="long" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -124,6 +124,9 @@
         </Renderer>
       </Renderer>
     </CustomRenderers>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
