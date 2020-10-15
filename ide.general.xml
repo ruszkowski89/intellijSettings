@@ -8,4 +8,11 @@
     <entry key="ide.usages.page.size" value="1000" />
     <entry key="ide.use.screen.area.tracker" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
