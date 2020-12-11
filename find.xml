@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -14,5 +13,8 @@
     <mask>@Annotation</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.build</mask>
+    <mask>*.grad</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

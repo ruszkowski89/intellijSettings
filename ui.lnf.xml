@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="957" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
