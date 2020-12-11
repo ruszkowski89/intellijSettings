@@ -2,18 +2,36 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="altGraph m" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="GotoTest" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
+  <action id="MethodHierarchy" />
+  <action id="ResourceExplorer.show" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowFilterPopup" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="windows" />
   </action>
   <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
 </keymap>
