@@ -75,8 +75,6 @@
   <codeStyleSettings language="JavaScript">
     <option name="SOFT_MARGINS" value="100" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
